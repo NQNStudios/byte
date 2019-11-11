@@ -1,0 +1,25 @@
+* byte
+	An Org-based language/framework for structuring thought
+** Conventions
+*** Use symbols/hieroglyphics for concepts and connect them to historical/spiritual roots
+** Problems
+*** Balance byte-usage
+**** TODO if you write too much byte, it tells you to stop 
+		 potentially implemented through [[Hank-based byte coach]]
+*** Allow for chaos
+**** TODO function/keybinding for inserting chaos?
+		 a la [[https://stackoverflow.com/a/1732454][never use regexes for html parsing]]
+**** Ritual(s) for allowing time and experiences to pass by without capturing them
+		 i.e. I haven't written byte in months/years, so my files are all out of date. What next? Let it go
+** Ideas
+*** Hank-based byte coach
+*** byte-size mindfulness
+*** byte communities
+		Weekly meeting with social rules, oral byte discussion
+** Inspirations
+*** How Emotions are Made: the Secret Life of the Brain
+		by Lisa Feldman Barrett
+*** You Are Here
+		by Thich Nhat Hanh
+*** Mormonism/Ex-Mormonism
+*** The Good Place
